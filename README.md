@@ -1,5 +1,5 @@
 
-# Bright Data Scraping Browser Selenium Webdriver Project
+# Bright Data Scraping Browser Nodejs Selenium Project
 
 <a href="https://codesandbox.io/p/devbox/github/luminati-io/bright-data-scraping-browser-nodejs-selenium-project?file=%2Findex.js" target="_blank" rel="noopener">Open in CodeSandbox</a>, sign in with GitHub account, then fork the repository to begin making changes.
 
