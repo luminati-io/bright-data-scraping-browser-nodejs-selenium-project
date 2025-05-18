@@ -1,0 +1,26 @@
+{
+  "name": "bright-data-scraping-browser-selenium-webdriver-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luminati-io/bright-data-scraping-browser-nodejsselenium-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luminati-io/bright-data-scraping-browser-nodejs-selenium-project/issues"
+  },
+  "homepage": "https://github.com/luminati-io/bright-data-scraping-browser-nodejs-selenium-project#readme",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "selenium-webdriver": "^4.15.0",
+    "dotenv": "^16.3.1"
+  }
+}
