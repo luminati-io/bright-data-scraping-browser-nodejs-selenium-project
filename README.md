@@ -5,13 +5,15 @@
 
 This project demonstrates how to use <a href="https://brightdata.com/products/scraping-browser" target="_blank" rel="noopener">Bright Data Scraping Browser</a> to scrape data from websites using Selenium WebDriver.
 
-### Getting Started
+## Getting Started
 
 1. Replace the `YOUR_BRIGHT_DATA_SCRAPING_BROWSER_ENDPOINT` value with your actual Bright Data scraping browser endpoint in `index.js`
 2. Replace `"https://example.com` with your target URL
 3. Run `npm install` to install dependencies
 4. Run `node index.js` to start scraping
 
+## Demo
+https://github.com/user-attachments/assets/5c8f73c1-a848-476d-80c6-a85f55762ce0
 
 ## Examples
 1. [Booking.com Hotel Scraping Demo](hotel-scraping/README.md)
